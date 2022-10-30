@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1667114715732,
+  "index": "https://jithinta88.github.io/my-angular-app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://jithinta88.github.io/my-angular-app/favicon.ico",
+        "https://jithinta88.github.io/my-angular-app/index.html",
+        "https://jithinta88.github.io/my-angular-app/main.22c3ccf83c7250ee.js",
+        "https://jithinta88.github.io/my-angular-app/manifest.webmanifest",
+        "https://jithinta88.github.io/my-angular-app/polyfills.9b06a0d53349de9d.js",
+        "https://jithinta88.github.io/my-angular-app/runtime.fd15a2e0aa80c38f.js",
+        "https://jithinta88.github.io/my-angular-app/styles.64149f24ab077b0a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://jithinta88.github.io/my-angular-app/assets/icons/icon-128x128.png",
+        "https://jithinta88.github.io/my-angular-app/assets/icons/icon-144x144.png",
+        "https://jithinta88.github.io/my-angular-app/assets/icons/icon-152x152.png",
+        "https://jithinta88.github.io/my-angular-app/assets/icons/icon-192x192.png",
+        "https://jithinta88.github.io/my-angular-app/assets/icons/icon-384x384.png",
+        "https://jithinta88.github.io/my-angular-app/assets/icons/icon-512x512.png",
+        "https://jithinta88.github.io/my-angular-app/assets/icons/icon-72x72.png",
+        "https://jithinta88.github.io/my-angular-app/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://jithinta88.github.io/my-angular-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://jithinta88.github.io/my-angular-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://jithinta88.github.io/my-angular-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://jithinta88.github.io/my-angular-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://jithinta88.github.io/my-angular-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://jithinta88.github.io/my-angular-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://jithinta88.github.io/my-angular-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://jithinta88.github.io/my-angular-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://jithinta88.github.io/my-angular-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://jithinta88.github.io/my-angular-app/index.html": "ea2fcb44893e41eaab1b1349b3c9dcf8c471d524",
+    "https://jithinta88.github.io/my-angular-app/main.22c3ccf83c7250ee.js": "bf09b198e192159771b75d1ead5704afdc4175c4",
+    "https://jithinta88.github.io/my-angular-app/manifest.webmanifest": "1bde9feeb0a08c5f8403e31475d546bb219d586f",
+    "https://jithinta88.github.io/my-angular-app/polyfills.9b06a0d53349de9d.js": "f9f39d13fd1aa9cbf9d9e78b94f6899281e4968e",
+    "https://jithinta88.github.io/my-angular-app/runtime.fd15a2e0aa80c38f.js": "556aa78a346bee2ded3bd4a220ab33e4121f71c9",
+    "https://jithinta88.github.io/my-angular-app/styles.64149f24ab077b0a.css": "1d52f3482132501bbc3515f0a5bb39ea75aeb96e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
